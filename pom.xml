@@ -19,7 +19,7 @@
         <quarkus.platform.version>1.5.0.Final</quarkus.platform.version>
         <surefire-plugin.version>2.22.1</surefire-plugin.version>
         <grpc.version>1.29.0</grpc.version>
-        <protoc.version>3.12.2</protoc.version>
+        <protoc.version>3.16.3</protoc.version>
         <os-maven-plugin.version>1.6.2</os-maven-plugin.version>
         <protobuf.version>0.6.1</protobuf.version>
         <lombok.version>1.18.12</lombok.version>
